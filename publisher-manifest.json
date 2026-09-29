@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3b7d65caa9c18ee79fe8b650",
+  "owner": "rybrewsmsrc",
+  "repo": "page-32560650800bc20e559a9731",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "32560650800bc20e559a9731",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d03fc3a9a79208c0b9a223ab579981768671fcb06d317ee8e0796ddb687c5344",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供机场订阅与 VPN 梯子网络加速说明，围绕客户端选择、套餐对照和导入步骤，帮助用户在官网完成加速器客户端下载与配置。",
+          "AI_DESCRIPTION": "44F网络提供机场订阅与 VPN 梯子网络加速说明，围绕客户端选择、套餐对照和导入步骤，帮助用户在官网完成加速器客户端下载与配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden;background:#F4EFE4;color:#13241C;font:17px/1.75 \"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif}a{color:#215544;text-decoration:underline;text-underline-offset:3px}header{background:#12352A;color:#F4EFE4;padding:.9rem 0}header a{color:#F4EFE4;text-decoration:none}header .brand-mark{margin:0 0 .45rem;font-weight:700;letter-spacing:.12em;font-size:.82rem}.wrap{width:min(1040px,calc(100% - 1.6rem));margin:0 auto}nav{display:flex;flex-wrap:wrap;gap:.4rem 1rem}nav a{font-size:.95rem;padding:.25rem 0}main{display:block}.hero{padding:2rem 0 1.2rem;border-bottom:1px solid #C3D0C8}.kicker{margin:0 0 .45rem;color:#215544;font-size:.8rem;font-weight:700;letter-spacing:.16em}h1{margin:0 0 .75rem;color:#12352A;font-size:clamp(2rem,6vw,3.05rem);line-height:1.18}.lead{margin:0;color:#3E5349;font-size:1.06rem;max-width:38rem}main section{padding:1.85rem 0;border-bottom:1px solid #C3D0C8}h2{margin:0 0 .75rem;color:#12352A;font-size:1.42rem;line-height:1.3}h3{margin:1.05rem 0 .35rem;color:#215544;font-size:1.08rem}p{margin:0 0 .85rem}.split{display:flex;flex-direction:column;gap:1rem;margin-top:.9rem}.panel-text{flex:1.2 1 260px}.panel-side{flex:.85 1 220px;background:#215544;color:#F4EFE4;padding:1.2rem 1.15rem}.panel-side h3{margin:0 0 .55rem;color:#FFFAF2}.panel-side p,.panel-side li{color:#F4EFE4}.panel-side ol,.panel-side ul{margin:0;padding-left:1.15rem}.panel-side li{margin:.28rem 0}.note{background:#D5E3DA;color:#13241C;padding:.95rem 1rem;margin:1rem 0}.module{margin-top:1rem;overflow-wrap:anywhere}#faq details{border-top:1px solid #C3D0C8;padding:.78rem 0}#faq details:last-of-type{border-bottom:1px solid #C3D0C8}summary{cursor:pointer;font-weight:700;color:#12352A}#faq details p{margin:.45rem 0 .15rem;color:#3E5349}footer{background:#12352A;color:#D5E3DA;padding:1.4rem 0 2rem;font-size:.92rem}footer a{color:#F4EFE4}footer p{margin:0 0 .45rem}@media (min-width:760px){.split{flex-direction:row;align-items:stretch;gap:1.45rem}.split.reverse{flex-direction:row-reverse}.hero{padding:2.7rem 0 1.5rem}main section{padding:2.25rem 0}h2{font-size:1.55rem}}</style><header><div class=\"wrap\"><p class=\"brand-mark\">44F网络 · 官方网站</p><nav><a href=\"#jianjie\">品牌简介</a><a href=\"#changjing\">使用场景</a><a href=\"#kehuduan\">客户端选择</a><a href=\"#taocan\">订阅套餐</a><a href=\"#caozuo\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap\"><div class=\"split\"><div class=\"panel-text\"><p class=\"kicker\">机场订阅 · VPN 梯子 · 客户端下载</p><h1>44F网络</h1><p class=\"lead\">44F网络把机场订阅、VPN 网络加速和客户端下载放在同一阅读路径里。先为你的系统选对客户端，再对照套餐完成导入，比先追节点名称更不容易走弯路。</p></div><aside class=\"panel-side\"><h3>首屏先看客户端</h3><ol><li>确认 Windows、macOS、Android 或 iOS</li><li>只选能导入订阅链接的客户端</li><li>下载走本页入口，避免来路不明安装包</li><li>同一订阅可多设备使用，同时在线数以套餐为准</li></ol></aside></div></div></section><section id=\"jianjie\"><div class=\"wrap\"><h2>品牌简介：44F网络机场怎样用</h2><div class=\"split reverse\"><div class=\"panel-text\"><p>44F网络是面向个人与小团队的机场订阅服务。它不把“安装一个加速器就能代替一切”当作前提，而是把可购买的订阅，和需要你本地安装的客户端分成两步：订阅负责授权与流量额度，客户端负责导入配置并接管网络请求。</p><p>本页作为 44F网络官网说明页，集中写清三件事：什么场景值得用 VPN 梯子，如何按系统选择客户端，以及从下单到连接的操作顺序。正文不罗列未提供的测速、节点数量或用户评价，可售卖信息以套餐模块为准。</p><p>若你是第一次接触机场订阅，把它理解成“一份可更新的配置来源”即可。客户端下载完成后，把订阅粘贴进去，才能开始网络加速；只下载应用却无处填写链接，通常是选错了工具类型。</p></div><aside class=\"panel-side\"><h3>建议阅读顺序</h3><ol><li>对照自己的设备选客户端</li><li>按流量与设备数看套餐</li><li>复制订阅并导入</li><li>用规则模式先验证目标网站</li></ol></aside></div></div></section><section id=\"changjing\"><div class=\"wrap\"><h2>使用场景：先想设备，再谈加速</h2><p>44F网络 VPN 适合需要稳定访问跨境资料、远程协作或日常浏览的用户。场景不同，客户端形态也不同——固定工位更适合桌面端，移动中更适合手机隧道。</p><div class=\"split\"><div class=\"panel-text\"><h3>远程办公与协作</h3><p>在酒店或公共网络里访问邮箱、文档和会议工具时，桌面客户端可以把代理范围限制在必要域名，减少对打印机、内网网盘的干扰。先保证工作软件可打开，再考虑是否切换全局模式。</p><h3>资料查阅与开发调试</h3><p>阅读国际文档、拉取公开镜像或核对接口时，浏览器和终端最好走同一套系统代理，避免“网页通了、命令行不通”。桌面端便于切换规则，也便于发现本地端口冲突。</p><h3>差旅中的手机访问</h3><p>通勤和短途出行以手机为主，应选择能后台保持连接、并支持订阅更新的移动客户端。高清影音会明显消耗套餐流量，建议按需开启，用完以账户与套餐说明为准。</p></div><aside class=\"panel-side\"><h3>场景对照提问</h3><ul><li>今天主要用电脑还是手机？</li><li>要不要和同事共用同一订阅？</li><li>访问目标是网页、协作软件还是大文件？</li><li>能否接受每次出行重新检查一次连接？</li></ul></aside></div></div></section><section id=\"kehuduan\"><div class=\"wrap\"><h2>客户端选择：44F网络下载前的对照</h2><p>这是本页最需要停下来看的一段。44F网络机场提供的是订阅，不是替代操作系统 VPN 设置的万能按钮。客户端选对了，官方下载和导入才会一次完成；选错了，后面所有套餐都无法发挥作用。</p><div class=\"split reverse\"><div class=\"panel-text\"><h3>按系统设计，而不是按名字跟风</h3><p>同一份订阅通常可以导入到不同客户端。真正先决定的是系统：Windows 与 macOS 适合功能完整的桌面端；Android 可选空间较大；iOS 需要符合商店规范的客户端。名称相似的“加速器”如果不能粘贴订阅链接，就不适合 44F网络这种机场用法。</p><h3>看懂订阅，再谈一键连接</h3><p>客户端负责解析订阅、更新可连接配置并接管流量。你在官网完成购买后，得到的是链接而不是安装包。把链接放进客户端的订阅栏，更新后再开启连接，这才是 44F网络 VPN 的常规路径。</p><h3>多设备如何分工</h3><p>建议先在主力电脑完成一次成功导入，确认目标网站可访问，再把同一订阅给手机。多设备可以共享，但同时在线数量受套餐限制。订阅等同密钥，不要发到公开群组或短视频评论区。</p></div><aside class=\"panel-side\"><h3>下载原则</h3><ul><li>只使用下方客户端入口</li><li>安装时允许系统 VPN 权限</li><li>导入后关掉旧的代理软件</li><li>不要寻找所谓破解加速器</li></ul></aside></div><p class=\"note\">下面由系统插入 44F网络客户端下载入口。请按操作系统选择，安装来源以该模块提供的真实链接为准。</p><div class=\"module\">{{CLIENTS_HTML}}</div></div></section><section id=\"taocan\"><div class=\"wrap\"><h2>机场订阅套餐</h2><p>选择 44F网络套餐时，优先看每月流量是否覆盖你的浏览习惯，以及允许几台设备同时在线。正文不重复价格与额度，避免和结算信息不一致；下列模块为实时展示。</p><div class=\"module\">{{PLANS_HTML}}</div></div></section><section id=\"caozuo\"><div class=\"wrap\"><h2>操作说明：从官网到连上</h2><div class=\"split\"><div class=\"panel-text\"><h3>第一步，选定套餐</h3><p>打开上方套餐模块，按流量和同时在线设备数选择。以网页、文档和协作软件为主时，通常不需要最高档；多人共用或经常传输大文件时，再考虑更大额度。</p><h3>第二步，获取订阅链接</h3><p>完成购买后，在账户或订单页复制订阅。检查首尾没有空格，也不要通过截图识别。链接能更新配置，丢失或泄露后应及时在账户内重置。</p><h3>第三步，安装对应客户端</h3><p>回到客户端区域，按系统下载并安装。系统会要求给予 VPN 或代理权限，这是隧道工作的必要条件。安装完成后不要急着寻找“节点地图”，先准备粘贴订阅。</p><h3>第四步，导入、更新、连接</h3><p>在客户端的订阅或配置栏粘贴链接，执行更新，再开启连接。可先用规则模式访问目标站点；若页面仍走本地网络，再检查是否开启了系统代理。浏览器扩展、旧版代理工具占用同一端口时，先退出再试。</p></div><aside class=\"panel-side\"><h3>连接前核对</h3><ol><li>客户端平台是否匹配</li><li>订阅是否完整</li><li>系统时间是否准确</li><li>是否只开着一个代理</li><li>套餐是否仍在有效期</li></ol></aside></div></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>44F网络是什么？和普通浏览器插件有何不同？</summary><p>44F网络是机场订阅型 VPN 加速入口。购买后得到的是可导入客户端的订阅，而不是仅作用于单个浏览器的临时插件。客户端可以按规则处理整台设备的部分或全部流量，更适合办公软件、命令行和系统服务一起使用的情况。</p></details><details><summary>第一次使用 44F网络，应该怎样选择客户端？</summary><p>先看设备系统，再确认该客户端能否粘贴订阅链接。电脑优先选桌面端，手机选能后台保持隧道的移动端。本页客户端模块提供对应入口，不必到搜索引擎随意下载同名加速器。</p></details><details><summary>订阅导入失败常见原因有哪些？</summary><p>链接复制不完整、首尾带了空格、客户端不支持该订阅格式、系统时间偏差，或旧代理占用端口，都会导致更新失败。可重新复制一次，只开一个客户端，并确认套餐仍有效后再更新。</p></details><details><summary>可以同时在电脑和手机上使用吗？</summary><p>可以共享同一份 44F网络订阅，但同时在线设备数以套餐说明为准。建议先在一台设备验证成功，再给第二台导入。超过上限时，后接入的设备可能无法稳定连接。</p></details><details><summary>流量用完或连上后打不开网站怎么办？</summary><p>流量与有效期以套餐和账户页为准，用尽后可能无法继续加速。若显示已连接却打不开站点，可在客户端更换配置模式（规则或全局），关闭多余浏览器代理，并确认目标访问确实需要跨境网络。</p></details><details><summary>44F网络官方下载应该从哪里获取？</summary><p>客户端请使用本页插入的下载入口，套餐请使用本页套餐模块。不要相信来历不明的网盘包或口头发送的“官方安装码”。本站正文不另外编造下载地址。</p></details></div></section></main><footer><div class=\"wrap\"><p>44F网络官方网站 · 机场订阅与 VPN 客户端下载指引</p><p><a href=\"#top\">回到顶部</a> · <a href=\"#kehuduan\">客户端选择</a> · <a href=\"#taocan\">套餐</a> · <a href=\"#faq\">常见问题</a></p></div></footer>",
+          "hash": "a361f9d6e1b2a471cd2c30eb2a52f67b1fde2cb54331088874c548265c0528ba",
+          "seo": {
+            "title": "44F网络官网｜VPN 梯子网络加速与机场客户端下载",
+            "keywords": "44F网络,44F网络官网,44F网络VPN,44F网络机场,44F网络加速器,VPN梯子,网络加速,机场订阅,客户端下载,官方下载",
+            "description": "44F网络提供机场订阅与 VPN 梯子网络加速说明，围绕客户端选择、套餐对照和导入步骤，帮助用户在官网完成加速器客户端下载与配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fgnscv.cn",
+    "host": "b.fgnscv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2382ceb07a5766d17a1a416e1339fdbecefd69b9ce694a8f5711427c12fdc057",
+    "sitemap.xml": "744443e5e065b6004437b825456eb53243639eacccc7b2affa0513c1ab2c3337",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c3f7e72f74d7b4acf6d3418758ee4dd1c2c86d41f34e0aef64e49a1c1d55530a",
+    "robots.txt": "ea16bd70adb26d361e472da0c5a6ea7a8d4825d4041386455acf241d35daebc8",
+    "ec314011a343b2eb88e18e3fe8cb627c.txt": "98c611ce221455a09b1ea134496fb5f60a5521c006221c9a3b7e92670e33f4a9"
+  },
+  "revision": "4f7529ff7dce9543152cd06ca8ae7a95953c6704ca1e15ad3e03b02d95f151d5"
+}
